@@ -1,0 +1,13 @@
+{
+  "editor.formatOnSave": true,
+  "javascript.format.enable": false,
+  "eslint.alwaysShowStatus": true,
+  "eslint.options": {
+    "extensions": [".html", ".js", ".jsx"]
+  },
+  "files.autoSaveDelay": 500,
+  "eslint.packageManager": "yarn",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
